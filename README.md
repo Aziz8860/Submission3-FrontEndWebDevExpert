@@ -21,4 +21,4 @@ Fitur yang harus ada pada aplikasi:
      - Gunakan teknik Code Splitting untuk memisahkan vendor code dari kode asli yang Anda tuliskan.
 5. Pertahankan syarat yang ada pada submission sebelumnya. Seperti penerapan PWA, responsibilitas tampilan,  aksesibilitas pada website dan sebagainya.
 
-
+### Link Web [https://musing-hopper-05cb5a.netlify.app/]
